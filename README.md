@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working from home
-- 🌱 I’m currently learning ENGG2780
+- 🌱 I’m currently learning statistics
 - 👯 I’m looking to collaborate on my life
 - 🤔 I’m looking for help with expert
 - 💬 Ask me about how to shut down the computer
