@@ -9,8 +9,8 @@
 - 😄 Pronouns: ?
 - ⚡ Fun fact: i am fun
 
--xd
- -xd
+- xd
+ - xd
 <!--
 **cwpau0/cwpau0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
